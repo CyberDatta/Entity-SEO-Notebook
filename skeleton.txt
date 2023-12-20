@@ -1,0 +1,22 @@
+your_app/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── utils.py
+│   └── views/
+│       ├── __init__.py
+│       ├── view1.py
+│       └── view2.py
+│
+├── images/
+│   ├── image1.png
+│   └── image2.jpg
+│
+├── data/
+│   ├── config.ini
+│   └── other_data_file.json
+│
+├── requirements.txt
+├── README.md
+└── run_app.py
